@@ -1,0 +1,17 @@
+movieSection: 'Filmes'
+streamingServicesList: 
+  - Netflix
+  - hbomax
+  - globo
+
+myStreamingServices:
+  - netflix
+
+plex:
+  serverName: 'phoebe'
+  clientName: 'SHIELD Android TV'
+  user: 'ariscot@tutanota.com'
+  pass: 
+  apiToken: 
+
+mongoUrl: 

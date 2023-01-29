@@ -1,0 +1,6 @@
+# .gitignore
+
+# Ignore secrets.env file
+secrets.env
+__pycache__
+mongo/
